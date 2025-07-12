@@ -89,3 +89,40 @@ header{
    background-repeat: no-repeat;
    background-position: top left,bottom right;
 }
+.contact{
+    background-color: #FFFFFF;
+    color: #FD6E0A;
+    width: 160px;
+    height: 50px;
+}
+.dark1{
+    font-size: 35px;
+    color: #181818;
+}
+.bg-color{
+    background-color: #FFF8F3;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+    
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-title{
+    color: #757575;
+    font-size: 20px;
+}
+.item-descrip{
+    color: #474747;
+    font-size: 20px;
+    font-weight: bold;
+}
